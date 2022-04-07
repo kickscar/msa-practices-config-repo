@@ -40,5 +40,5 @@ logging:
          kickscar:
             msa:
                service:
-                  emaillist:
+                  gallery:
                      exception: ERROR
