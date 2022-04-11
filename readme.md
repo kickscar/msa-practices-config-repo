@@ -42,3 +42,13 @@
 
 3.	production<br/>
 	http://{service-config-server}/service-storage/production
+
+#### 5. service-gateway-server
+1.	default<br/>
+	  http://{service-config-server}/service-gateway-server/default
+
+2.	development<br/>
+	  http://{service-config-server}/service-gateway-server/development
+
+3.	production<br/>
+	  http://{service-config-server}/service-gateway-server/production
